@@ -14,7 +14,7 @@ In addition to my day job, I also organize a number of local tech meetups, mainl
 
 ### Ilesha Garg, Reader/Grader
 
-(Coming soon)
+Ilesha Garg is a first year graduate student pursuing Masters in Information Management at the iSchool. She worked as a Software Experience for 2 years at Chase. She is passionate about the intersection of product and technology.
 
 ## Course structure
 
