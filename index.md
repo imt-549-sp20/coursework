@@ -40,4 +40,4 @@ Please review the [Course Rules section on the Canvas course](https://canvas.uw.
 
 ## Get started!
 
-That's all you need to know to get started. Get your machine ready for web development by installing the tools listed on the [Getting Setup Tutorial](./getting-setup), and then go through the [Managing Your Files Tutorial](./managing-files) to learn the basics of git and GitHub. Your first challenge is due on Wednesday March 25 by 8:30 p.m. PDT.
+That's all you need to know to get started. Get your machine ready for web development by installing the tools listed on the [Getting Setup Tutorial](./getting-setup), and then go through the [Managing Your Files Tutorial](./managing-files) to learn the basics of git and GitHub. Your first challenge is due on Monday, April 6 by 8:30 p.m. PDT.
