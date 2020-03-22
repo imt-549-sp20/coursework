@@ -21,9 +21,9 @@ Most screenshots and examples will be on a Mac OS machine.
 - [Node JS and NPM](https://nodejs.org/en/download/) - These tools will help us build modern Web pages.
 These tools can be downloaded from the website.
 
-### Homebrew
+### Homebrew (optional)
 
-If you are comfortable using [Homebrew](https://brew.sh/) (MacOS only) to manage applications on your computer, these tools are available by using the following commands:
+If you are comfortable using the command line, [Homebrew](https://brew.sh/) (MacOS only) can be used to manage applications on your computer, the software is available to install by using the following commands:
 
 ```
 # Install Homebrew
