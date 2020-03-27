@@ -28,11 +28,11 @@ For each of these modules, you will read a few tutorials, occasionally watch a d
 
 ## Interaction and communication
 
-This is an entirely online course, so you won't be coming to a classroom and sitting through a lecture. All the work will be done asynchronously, but both Yim and I will be available to answer questions and help you when you get stuck. As noted in the Communication section of the Canvas course website, you should post any questions you have Discussion ara of Canvas so others can see the answer (you're probably not the only person with that question). If you'd like to ask something more personal, feel free to send an email or chat message instead.
+This is an entirely online course. All the work will be done asynchronously, but both Ilesha and I will be available to answer questions and help you when you get stuck. As noted in the Communication section of the Canvas course website, you should post any questions in Slack so others can see the answer (you're probably not the only person with that question). If you'd like to ask something more personal, feel free to send an email or private  message instead.
 
 We will work to answer questions promptly, but please remember we have other responsibilities in addition to this course, so we may not be able to answer you immediately.
 
-If you want to have a synchronous live chat, we can do that via Zoom or some other video conferencing tool. If you happen to be near the UW Seattle campus, you can also schedule an in-person meeting. Send a chat message or email to schedule a time to chat.
+If you want to have a synchronous live chat, we can do that via Zoom or some other video conferencing tool. Send a chat message or email to schedule a time to chat.
 
 ## Course rules
 
