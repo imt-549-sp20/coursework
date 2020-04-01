@@ -10,11 +10,29 @@ Most screenshots and examples will be on a Mac OS machine.
 
 - [GitHub](https://github.com) - We will store all code in GitHub. There is also a [Student Developer Pack](https://education.github.com/pack) which gives you unlimited private repositories and other useful resources.
 
+### Join the GitHut classroom
+
+Follow the link in the [Week 1 - Managing files challenge](https://canvas.uw.edu/courses/1375712/assignments/5284439) to join the IMT 549 organization on GitHub. Once you join, it should make a copy of the initial files and put them in the location `github.com/imt-549-sp20/challanges-{your username}`. 
+
+This is repository you will be working out of for the quarter, it will part of the GitHub classroom but only Nick and Ilesha will have access to it.
+
 ## Desktop tools
 
 - [GitHub Desktop](https://desktop.github.com/) - This tool makes working with GIT visual.
 - [Visual Studio Code](https://code.visualstudio.com/) - Code editor we will be using throughout the course.
 - [Google Chrome](https://www.google.com/chrome/) - Web browser with developer tools that will allow us to inspect Web pages and javascript.
+
+## Install GIT (optional)
+
+If GitHub Desktop of VS Code show an error that "git cannot be found". You will have to [download git](https://git-scm.com/downloads) and install it.
+
+On a Mac, if you get an error when trying to open the file because it could not identify the developer.
+
+![Git error](./images/getting-setup/git-error.png)
+
+Open System Preferences -> Security and click the "Open Anyways" button at the bottom of the window:
+
+![System preferences](./images/getting-setup/system-preferences.png)
 
 ## Command line tools
 
