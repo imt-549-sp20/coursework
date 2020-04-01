@@ -75,7 +75,7 @@ git config --global user.name "{Firstname} {Lastname}"
 
 These extensions will help you as a developer get the most out of Visual Studio Code.
 
-- [StyleLint](https://marketplace.visualstudio.com/items?itemName=shinnn.stylelint)
+- [StyleLint](https://marketplace.visualstudio.com/items?itemName=stylelint.vscode-stylelint)
 - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 - [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
 - [IntelliSense for CSS class names](https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion)
