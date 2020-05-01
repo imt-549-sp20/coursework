@@ -7,8 +7,8 @@ Javascript can be thought about as the 'interactivity' of a website. Before we g
 ## Required reading
 
 - [JavaScript For Cats](http://jsforcats.com/)
-- [You Don't Know JS: Chapter 1: Into Programming](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20%26%20going/ch1.md)
-- [You Don't Know JS: Chapter 2: Into JavaScript](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20%26%20going/ch2.md)
+- [You Don't Know JS: Chapter 1: Into Programming](https://patrickfatrick.gitbooks.io/you-don-t-know-js-up-going/content/ch1.html)
+- [You Don't Know JS: Chapter 2: Into JavaScript](https://patrickfatrick.gitbooks.io/you-don-t-know-js-up-going/content/ch2.html)
 - [A re-introduction to JavaScript (JS tutorial)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 
 ## Optional tutorials
